@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "company_name": "Testing Company 1",
+    "location": "Wakad",
+    "technologies": "PHP, MySQL, WordPress",
+    "careers_page": "http://google.com"
+  },
+
+  {
+    "id": 1,
+    "company_name": "Testing Company 2",
+    "location": "Baner",
+    "technologies": "Java, ASP.NET",
+    "careers_page": "http://facebook.com"
+  },
+
+  
+  ]
