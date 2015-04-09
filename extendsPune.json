@@ -51,7 +51,15 @@
     "technologies": "WordPress, PHP, Python, Ruby on Rails",
     "careers_page": "https://rtcamp.com/careers/",
     "logo_url": "http://mumbai.wordcamp.org/2015/files/2015/02/rtcamp-logo-whitebg-400.jpg"
+  },
+  
+  {
+    "id": 7,
+    "company_name": "Idyllic",
+    "location": "Pune Railway Station, Agarkar Nagar",
+    "technologies": "Ruby on Rails, UI/UX, iOS, Android",
+    "careers_page": "http://www.idyllic-software.com/careers",
+    "logo_url": "https://scontent-ams.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/532390_476288882422220_171254794_n.jpg?oh=d9133aecedf5103858ec1ce7e1827f23&oe=55B74B85"
   }
-
   
   ]
