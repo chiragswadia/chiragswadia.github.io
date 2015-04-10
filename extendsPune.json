@@ -87,6 +87,60 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://www.gslab.com/careers",
     "logo_url": "http://rsphinx.com/site_media/company_logos/gslab_logo.png"
+  },
+  
+   {
+    "id": 11,
+    "company_name": "Equal Experts",
+    "location": "Kalyani Nagar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.equalexperts.com/",
+    "logo_url": "https://media.glassdoor.com/sqll/517343/equal-experts-squarelogo-1379200354547.png"
+  },
+  
+   {
+    "id": 12,
+    "company_name": "Fab.com",
+    "location": "Magarpatta City, Hadapsar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.hrjobcenter.com/fab/index.html",
+    "logo_url": "http://upload.wikimedia.org/wikipedia/en/e/e2/Fab-logo.png"
+  },
+  
+  {
+    "id": 13,
+    "company_name": "Helpshift",
+    "location": "Wadgaon Sheri / Viman Nagar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "https://www.helpshift.com/about/careers/",
+    "logo_url": "http://sv.thegmic.com/wp-content/uploads/2013/09/helpshift_logo_300x300-1.jpg"
+  },
+  
+  {
+    "id": 14,
+    "company_name": "Webonise Lab",
+    "location": "Bavdhan / Chandni Chowk",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.webonise.com/career.html",
+    "logo_url": "http://ww1.prweb.com/prfiles/2013/04/24/10666777/webonise.png"
+  },
+  
+  {
+    "id": 15,
+    "company_name": "Viralmint",
+    "location": "Aundh",
+    "technologies": "Social Media, PHP",
+    "careers_page": "http://www.viralmint.com/careers.php",
+    "logo_url": "http://www.viralmint.com/images/VMlogo.jpg"
+  },
+  
+  {
+    "id": 16,
+    "company_name": "Storypick.com",
+    "location": "NA",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.storypick.com/careers/",
+    "logo_url": "http://www.storypick.com/wp-content/uploads/2014/04/storypick-crunched.png"
   }
   
   ]
