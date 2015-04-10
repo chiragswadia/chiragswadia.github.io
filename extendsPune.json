@@ -141,6 +141,33 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://www.storypick.com/careers/",
     "logo_url": "http://www.storypick.com/wp-content/uploads/2014/04/storypick-crunched.png"
+  },
+  
+  {
+    "id": 17,
+    "company_name": "Function Space",
+    "location": "Shivaji Nagar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://functionspace.careers/",
+    "logo_url": "http://functionspace.org/img/fs-logo.png"
+  },
+  
+  {
+    "id": 18,
+    "company_name": "Innoplexus",
+    "location": "Aundh",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://innoplexus.com/",
+    "logo_url": "http://inno1.innoplexus.com/wp-content/uploads/2013/12/Innoplexus1.png"
+  },
+  
+  {
+    "id": 19,
+    "company_name": "2020 Spaces",
+    "location": "Bavdhan",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.2020spaces.com/about-us/j-en/",
+    "logo_url": "http://www.2020spaces.com/wp-content/uploads/2014/06/Logo2020_448x175.png"
   }
   
   ]
