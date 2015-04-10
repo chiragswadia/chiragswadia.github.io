@@ -168,6 +168,69 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://www.2020spaces.com/about-us/j-en/",
     "logo_url": "http://www.2020spaces.com/wp-content/uploads/2014/06/Logo2020_448x175.png"
+  },
+  
+  {
+    "id": 20,
+    "company_name": "Crest",
+    "location": "Magarpatta City, Hadapsar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.crest.in/jobs/information-technology/",
+    "logo_url": "http://cdn.biotecnika.org/sites/default/files/Crest.JPG"
+  },
+  
+  {
+    "id": 21,
+    "company_name": "Xento Systems",
+    "location": "Magarpatta City, Hadapsar",
+    "technologies": "PHP",
+    "careers_page": "http://www.xento.com/careers",
+    "logo_url": "http://sonias-advt.com/images/Logodesigning/Xento-Logo.jpg"
+  },
+  
+  {
+    "id": 22,
+    "company_name": "Cybage",
+    "location": "Kalyani Nagar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://cybage.com/career",
+    "logo_url": "http://w10.naukri.com/gpw/cybage/images/logo.jpg"
+  },
+  
+  {
+    "id": 23,
+    "company_name": "Calsoft India",
+    "location": "Bavdhan, Pashan / Baner & Hinjewadi",
+    "technologies": "Multiple Technolgies",
+    "careers_page": "http://calsoftinc.com/careers/india/",
+    "logo_url": "http://www.calsoftinc.com/wp-content/uploads/2014/04/logo3.jpg"
+  },
+  
+  {
+    "id": 24,
+    "company_name": "Harbinger Systems",
+    "location": "Kothrud, SUS Road & Hinjewadi",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.harbinger-systems.com/company/careers",
+    "logo_url": "http://www.harbinger-systems.com/images/colors/blue/logo.png"
+  },
+  
+  {
+    "id": 25,
+    "company_name": "Yash Technologies",
+    "location": "Magarpatta City, Hadapsar & Hinjewadi",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.yash.com/career/career-india.php",
+    "logo_url": "http://ww1.prweb.com/prfiles/2011/02/07/8727665/gI_59268_YASH-TM%20Logo-Transparent%202.gif"
+  },
+  
+  {
+    "id": 26,
+    "company_name": "Affinity Express",
+    "location": "EON IT Park, Kaharadi",
+    "technologies": "Graphic Design",
+    "careers_page": "http://www.affinityx.com/about-us/careers",
+    "logo_url": "http://naoa.multiview.com/userlogo/naoa/118570v6v1.jpg"
   }
   
   ]
