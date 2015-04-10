@@ -78,6 +78,15 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://careers.bitwiseglobal.com/",
     "logo_url": "http://www.latestoffcampus.com/wp-content/uploads/2012/04/Bitwise-Solutions.png"
+  },
+  
+   {
+    "id": 10,
+    "company_name": "GS Lab",
+    "location": "Baner",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.gslab.com/careers",
+    "logo_url": "http://rsphinx.com/site_media/company_logos/gslab_logo.png"
   }
   
   ]
