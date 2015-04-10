@@ -55,11 +55,29 @@
   
   {
     "id": 7,
-    "company_name": "Idyllic",
+    "company_name": "Idyllic Software",
     "location": "Pune Railway Station, Agarkar Nagar",
     "technologies": "Ruby on Rails, UI/UX, iOS, Android",
     "careers_page": "http://www.idyllic-software.com/careers",
-    "logo_url": "https://scontent-ams.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/532390_476288882422220_171254794_n.jpg?oh=d9133aecedf5103858ec1ce7e1827f23&oe=55B74B85"
+    "logo_url": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/131634-9977b3641e693bbc113dfdce3e8977fe-medium_jpg.jpg?buster=1350997753"
+  },
+  
+  {
+    "id": 8,
+    "company_name": "Talentica Software",
+    "location": "Baner",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://careers.talentica.com/jobs/",
+    "logo_url": "http://www.unidusservices.com/images/clients/4.gif"
+  },
+  
+  {
+    "id": 9,
+    "company_name": "Bitwise Global",
+    "location": "Baner",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://careers.bitwiseglobal.com/",
+    "logo_url": "http://www.latestoffcampus.com/wp-content/uploads/2012/04/Bitwise-Solutions.png"
   }
   
   ]
