@@ -227,10 +227,37 @@
   {
     "id": 26,
     "company_name": "Affinity Express",
-    "location": "EON IT Park, Kaharadi",
+    "location": "EON IT Park, Kharadi",
     "technologies": "Graphic Design",
     "careers_page": "http://www.affinityx.com/about-us/careers",
     "logo_url": "http://naoa.multiview.com/userlogo/naoa/118570v6v1.jpg"
+  },
+  
+  {
+    "id": 27,
+    "company_name": "Sokrati",
+    "location": "Baner",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.sokrati.com/careers-sokrati/",
+    "logo_url": "http://www.sokrati.com/wp-content/themes/roots-child/assets/img/logo.png"
+  },
+  
+  {
+    "id": 28,
+    "company_name": "QuickHeal Technologies",
+    "location": "Wakdewadi Shivaji Nagar, Yerwada & Viman Nagar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.quickheal.co.in/jobs-careers-at-quick-heal#simple2",
+    "logo_url": "https://pbs.twimg.com/profile_images/463249429902811137/01mPM8P2.png"
+  },
+  
+  {
+    "id": 29,
+    "company_name": "Vidushi Infotech",
+    "location": "Kalyani Nagar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.vidushiinfotech.com/applyonlinejob.asp",
+    "logo_url": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/120/3c9/0bd182e.jpg"
   }
   
   ]
