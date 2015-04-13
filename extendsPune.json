@@ -267,6 +267,24 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://www.thoughtworks.com/careers/apply",
     "logo_url": "http://www.thoughtworks.com/imgs/tw-logo.png"
+  },
+  
+  {
+    "id": 31,
+    "company_name": "eInfochips",
+    "location": "Magarpatta City, Hadapsar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "https://www.einfochips.com/index.php/corporate/careers/current-openings.html",
+    "logo_url": "http://www.qmed.com/sites/default/files/imagecache/supplier_listing_logo/images/EInfochips.png"
+  },
+  
+  {
+    "id": 32,
+    "company_name": "Clarion Technologies",
+    "location": "Magarpatta City, Hadapsar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "https://www.einfochips.com/index.php/corporate/careers/current-openings.html",
+    "logo_url": "http://www.clariontechnologies.co.in/sites/default/files/clarion-technologies.png"
   }
   
   ]
