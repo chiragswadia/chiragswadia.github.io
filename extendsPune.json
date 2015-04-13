@@ -285,6 +285,33 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://www.clariontechnologies.co.in/careers",
     "logo_url": "http://www.clariontechnologies.co.in/sites/default/files/clarion-technologies.png"
+  },
+  
+  {
+    "id": 33,
+    "company_name": "Clogeny",
+    "location": "Hinjewadi",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://clogeny.com/clogeny-careers/",
+    "logo_url": "https://www.eucalyptus.com/sites/all/img/logos/partners/clogeny1.png?1338290149?1338290149"
+  },
+  
+  {
+    "id": 34,
+    "company_name": "Enzigma",
+    "location": "Baner",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.enzigma.com/#footer",
+    "logo_url": "https://www.enzigma.com/images/Img_Enzigmalogo.png"
+  },
+  
+   {
+    "id": 35,
+    "company_name": "HSBC Software Development Centre",
+    "location": "Kalyani Nagar, Yerwada",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.hsbcsoftwaredevelopment.com/hotjobs.aspx?glt=GLT_PUNE",
+    "logo_url": "http://www.hsbcsoftwaredevelopment.com/images/logo_July_new_2012.jpg"
   }
   
   ]
