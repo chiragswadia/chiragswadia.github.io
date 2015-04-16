@@ -312,6 +312,24 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://www.hsbcsoftwaredevelopment.com/hotjobs.aspx?glt=GLT_PUNE",
     "logo_url": "http://www.hsbcsoftwaredevelopment.com/images/logo_July_new_2012.jpg"
+  },
+  
+  {
+    "id": 36,
+    "company_name": "Bookmyshow.com",
+    "location": "NA",
+    "technologies": "Multiple Technologies, Sales, Mareting, Content Writing, Social Media",
+    "careers_page": "http://in.bookmyshow.com/careers/",
+    "logo_url": "http://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Bookmyshow_Logo.png/320px-Bookmyshow_Logo.png"
+  },
+  
+  {
+    "id": 37,
+    "company_name": "Uber Pune",
+    "location": "NA",
+    "technologies": "Customer Support, Social Media, Operations Manager",
+    "careers_page": "https://www.uber.com/jobs/list?keywords=&location=Pune,%20India",
+    "logo_url": "http://static1.squarespace.com/static/517ebeaae4b01eeb7ae91027/51f1bc77e4b0e7874935bfae/52a76117e4b02cae5d3d8bf0/1390846471481/Uber.png"
   }
   
   ]
