@@ -339,6 +339,24 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://www.mobikontech.com/careers/#mobikon-careers",
     "logo_url": "http://static1.squarespace.com/static/52cf6a7ae4b0578e3678a9cf/t/5355ce6be4b0fde8a1d49a65/1423558541618/?format=400w"
+  },
+  
+  {
+    "id": 39,
+    "company_name": "Tieto",
+    "location": "EON IT Park Kharadi, Viman Nagar",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://www.tieto.in/careers-tieto-india",
+    "logo_url": "http://sdjournal.pl/wp-content/uploads/2014/10/tieto-logo.jpg"
+  },
+  
+  {
+    "id": 40,
+    "company_name": "Mphasis",
+    "location": "Magarpatta City, Hadapsar & EON IT Park Kharadi",
+    "technologies": "Multiple Technologies",
+    "careers_page": "http://careers.mphasis.com/?utm_source=mphasis_site&utm_medium=link&utm_campaign=corpsite",
+    "logo_url": "http://www.mphasis.com/assets/img/logo1.png"
   }
   
   ]
