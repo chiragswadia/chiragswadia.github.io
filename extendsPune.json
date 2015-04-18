@@ -366,6 +366,15 @@
       "technologies": "Python, Ruby, Node.js, Angular.js, iOS, Android",
       "careers_page": "http://www.ignitesol.com/category/jobs/",
       "logo_url": "http://www.ignitesol.com/content/themes/ignite-website-theme/images/fulllogo.png"
+  },
+  
+  {
+      "id": 42,
+      "company_name": "Clarice Technologies",
+      "location": "Baner & Hinjewadi",
+      "technologies": "Multiple Technologies",
+      "careers_page": "http://claricetechnologies.com/career/",
+      "logo_url": "http://corecommunique.com/wp-content/uploads/2013/06/clarice-logo.jpg"
   }
 
 ]
