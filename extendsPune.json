@@ -357,6 +357,15 @@
     "technologies": "Multiple Technologies",
     "careers_page": "http://careers.mphasis.com/?utm_source=mphasis_site&utm_medium=link&utm_campaign=corpsite",
     "logo_url": "http://www.mphasis.com/assets/img/logo1.png"
+  },
+
+  {
+      "id": 41,
+      "company_name": "Ignite Solutions",
+      "location": "Viman Nagar",
+      "technologies": "Python, Ruby, Node.js, Angular.js, iOS, Android",
+      "careers_page": "http://www.ignitesol.com/category/jobs/",
+      "logo_url": "http://www.ignitesol.com/content/themes/ignite-website-theme/images/fulllogo.png"
   }
-  
-  ]
+
+]
