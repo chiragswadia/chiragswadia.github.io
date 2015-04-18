@@ -375,6 +375,15 @@
       "technologies": "Multiple Technologies",
       "careers_page": "http://claricetechnologies.com/career/",
       "logo_url": "http://corecommunique.com/wp-content/uploads/2013/06/clarice-logo.jpg"
+  },
+  
+  {
+      "id": 43,
+      "company_name": "Avaya",
+      "location": "Magarpatta City, Hadapsar",
+      "technologies": "Multiple Technologies",
+      "careers_page": "http://www.avaya.com/usa/careers/",
+      "logo_url": "http://www.gtscommunications.com/user/files/103.jpg"
   }
 
 ]
