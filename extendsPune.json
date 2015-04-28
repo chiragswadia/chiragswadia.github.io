@@ -402,6 +402,33 @@
       "technologies": "Multiple Technologies",
       "careers_page": "http://jobs.redhat.com/job-search-results/?technology=-1&marketing=-1&sales=-1&corporate=-1&country=105&city=466645&remote=-1&keywords=Keywords",
       "logo_url": "http://www.theinquirer.net/IMG/471/165471/redhat-logo.jpg"
+  },
+  
+  {
+      "id": 46,
+      "company_name": "RiseSmart",
+      "location": "Kalyani Nagar",
+      "technologies": "Multiple Technologies",
+      "careers_page": "http://www.risesmart.com/about-us/careers",
+      "logo_url": "http://www.risesmart.com/sites/all/themes/risesmart/logo.png"
+  },
+  
+  {
+      "id": 47,
+      "company_name": "Datametica",
+      "location": "Mundhwa, Koregaon Park",
+      "technologies": "Multiple Technologies",
+      "careers_page": "http://datametica.com/careers/",
+      "logo_url": "http://hortonworks.com/wp-content/uploads/2014/09/DM-High-Resoltuion-logo-300x80.png"
+  },
+  
+  {
+      "id": 48,
+      "company_name": "ZS Associates",
+      "location": "Magarpatta City, Hadapsar",
+      "technologies": "Multiple Technologies",
+      "careers_page": "http://www.zsassociates.com/careers.aspx",
+      "logo_url": "http://media.glassdoor.com/sqll/115506/zs-associates-squarelogo-1413819646355.png"
   }
 
 ]
