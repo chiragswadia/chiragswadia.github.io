@@ -429,6 +429,15 @@
       "technologies": "Multiple Technologies",
       "careers_page": "http://www.zsassociates.com/careers.aspx",
       "logo_url": "http://media.glassdoor.com/sqll/115506/zs-associates-squarelogo-1413819646355.png"
+  },
+  
+  {
+      "id": 49,
+      "company_name": "Torqus",
+      "location": "Karve Nagar, Kothrud",
+      "technologies": "Multiple Technologies",
+      "careers_page": "http://www.torqus.com/careers/",
+      "logo_url": "https://media.licdn.com/media/AAEAAQAAAAAAAAEEAAAAJDdiMjY1NTVkLWEwYjEtNGI1MS05OGVmLTNlMjUyYThiM2Y5Mw.png"
   }
 
 ]
